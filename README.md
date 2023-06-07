@@ -4,6 +4,6 @@
 
 ### To run the 3 test cases
 ```bash
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 python3 main.py 
 ```
